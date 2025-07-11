@@ -28,4 +28,4 @@ I used ChatGPT to:
 
 ## Submission Link
 
-GitHub Repo: https://github.com/yourusername/MSDS451_Assignment1.git
+GitHub Repo: https://github.com/bcaldwell21/MSDS451_Assignment1.git
